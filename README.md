@@ -1,8 +1,8 @@
 # Personal Tracking for React Learning 
-Sources
-Video Tutorial: Learn React for Modern Web Applications
-Author/Content Creator: Shaun Wassell
-Platform: O'Reilly
+Sources\
+Video Tutorial: Learn React for Modern Web Applications\
+Author/Content Creator: Shaun Wassell\
+Platform: O'Reilly\
 
 # Getting Started with Create React App
 
