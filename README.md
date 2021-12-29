@@ -1,3 +1,9 @@
+# Personal Tracking for React Learning 
+Sources
+Video Tutorial: Learn React for Modern Web Applications
+Author/Content Creator: Shaun Wassell
+Platform: O'Reilly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
