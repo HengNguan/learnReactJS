@@ -2,7 +2,7 @@
 Sources\
 Video Tutorial: Learn React for Modern Web Applications\
 Author/Content Creator: Shaun Wassell\
-Platform: O'Reilly\
+Platform: O'Reilly
 
 # Getting Started with Create React App
 
