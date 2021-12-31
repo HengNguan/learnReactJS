@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom'; // use link instead of href to avoid browser for reload everything, one of adds of react 
-import { HomePage, ConterButtonPage, PeopleListPage, NotFoundPage, ProtectedPage } from './pages';
+import { HomePage, ConterButtonPage, PeopleListPage, NotFoundPage, ProtectedPage, ControlledFormPage } from './pages';
 import logo from './logo.svg';
 import { CounterButton } from './CounterButton';
 import { Congratulations } from './Congratulation';
@@ -37,10 +37,16 @@ function App() {
           <ProtectedPage/>
         </Route>
         
+
+        <Route path ="/controlled">
+          <ControlledFormPage/>
+        </Route>
+
         <Route>
           <NotFoundPage/>
         </Route>
 
+        
         </Switch>
         <Link to= "/counter">Go to Counter Page</Link>   {/* Link have to inside the router package  */}
         <p> </p>
